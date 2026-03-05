@@ -11,7 +11,7 @@ A Full-Stack Human Resource Management System built with:
 ---
 
 ## 🚀 Live Demo
-- Frontend : https://hrms-lite-ashen-pi.vercel.app
+- Frontend : https://hrms-lite-project-snowy.vercel.app/
 - Backend : https://hrms-lite-production-f1e9.up.railway.app/docs
 
 ---

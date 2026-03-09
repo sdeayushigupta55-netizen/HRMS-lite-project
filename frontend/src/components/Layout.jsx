@@ -47,9 +47,9 @@ function Layout({ children }) {
         <div className="mt-auto text-sm text-gray-400 pt-10">© 2026 HRMS</div>
       </aside>
 
-      {/* Main */}
+   
       <div className="flex-1 flex flex-col">
-        {/* Topbar */}
+
         <header className="bg-white shadow-sm px-8 py-4 flex justify-between items-center">
           <h2 className="text-xl font-semibold text-gray-800">
             Admin Dashboard
@@ -62,7 +62,7 @@ function Layout({ children }) {
           </div>
         </header>
 
-        {/* Page Content */}
+
         <main className="p-8 flex-1">{children}</main>
       </div>
     </div>

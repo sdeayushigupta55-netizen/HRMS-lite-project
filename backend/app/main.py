@@ -8,7 +8,7 @@ app = FastAPI()
 app.include_router(employee.router)
 app.include_router(attendance.router)
 
-# CORS (for frontend later)
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  # we’ll restrict in production
